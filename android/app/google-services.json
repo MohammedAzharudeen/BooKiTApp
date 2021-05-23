@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "788956396088",
+    "firebase_url": "https://bookit-ffbee.firebaseio.com",
+    "project_id": "bookit-ffbee",
+    "storage_bucket": "bookit-ffbee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788956396088:android:e514e34f5dabf2035104cd",
+        "android_client_info": {
+          "package_name": "com.example.bookit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788956396088-6hmi1kjrtce1j2oh95kguc6v6t91heq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3LTT3Pom7m6Ps2wMwQEVId89DN0t67eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788956396088-6hmi1kjrtce1j2oh95kguc6v6t91heq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
